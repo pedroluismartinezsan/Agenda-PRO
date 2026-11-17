@@ -1,0 +1,10 @@
+{
+  "name": "Agenda PRO",
+  "short_name": "Agenda PRO",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5fa",
+  "theme_color": "#0a3976",
+  "lang": "es-CO"
+}
